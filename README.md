@@ -28,5 +28,5 @@
 
 <div>
 <h2 align="center" >
-  <a href="https://www.instagram.com/xhicao._rlq/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></h2>
+  <a href="https://www.instagram.com/xhicao._rlq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></h2>
 </div>
