@@ -1,5 +1,11 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Francisco!;" />
+
+<div>
+   <a href="https://github.com/guimota22">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flas007&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+ 
 <br>
  <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center" >
